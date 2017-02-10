@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"htmltemplate"
+			],
+			[
+				"product",
+				"productDetail"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"st",
+				"storeApp"
+			],
+			[
+				"c",
+				"cleaned_data"
+			],
+			[
+				"Sign",
+				"SignUpForm"
+			],
+			[
+				"delete",
+				"delete_biopic"
+			],
+			[
+				"edit_driver",
+				"edit_driver_f"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 2331,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/files.js",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "\"use strict\";"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/Random/ginitScratch",
+		"/C/Projects/Random/ginitScratch/lib"
+	],
+	"file_history":
+	[
+		"/C/Projects/Random/ginitScratch/index.js",
+		"/C/Projects/Random/ginitScratch/index.json",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/app.js",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/productDetail/productDetail.html",
+		"/C/Projects/Appveyor/appveyor-web-v2/package.json",
+		"/C/Projects/Appveyor/appveyor-web-v2/index.html",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/home/home.html",
+		"/C/Projects/Appveyor/appveyor-web-v2/dist/app.css",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/styles/_vars.scss",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/styles/app.scss",
+		"/C/Projects/Appveyor/appveyor-web-v2/gulpfile.js",
+		"/C/Users/britzkopf/AppData/Local/GPMDP_3/app-4.0.2/icudtl.dat",
+		"/C/Projects/Appveyor/appveyor/.git/objects/96/359c8b86d4b3ac53dfe0bb0780985cfdc03983",
+		"/C/Projects/Appveyor/appveyor-web-v2/index.handlebars",
+		"/C/Projects/Appveyor/appveyor-web-v2/dist/app-0a9a387c75.min.js",
+		"/C/Projects/Appveyor/appveyor-web-v2/dist/svg-symbols.svg",
+		"/C/Projects/Appveyor/appveyor-web-v2/dist/svg-symbols.css",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/index.handlebars",
+		"/C/Projects/Appveyor/appveyor-web-v2/app/home/home.js",
+		"/C/Projects/Appveyor/appveyor-web-v2/expressApp.js",
+		"/C/Projects/Appveyor/appveyor-web-v2/dist/app-e332d7107e.min.js",
+		"/C/Users/britzkopf/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/britzkopf/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/F/Code/Sublime projects/appveyor-web-v2.sublime-project",
+		"/C/Users/britzkopf/Desktop/package.json",
+		"/C/Users/britzkopf/Desktop/package (2).json",
+		"/C/Windows/Microsoft.NET/Framework/v4.0.30319/Microsoft.CSharp.targets",
+		"/C/Windows/Microsoft.NET/Framework/v4.0.30319/Microsoft.Common.targets",
+		"/C/Program Files (x86)/MSBuild/14.0/Bin/Microsoft.CSharp.targets",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/F/Code/angular/appveyor-web-v2/app/blog.json",
+		"/F/Code/angular/appveyor-web-v2/app/app.js",
+		"/F/Code/angular/appveyor-web-v2/app/blog/blog.js",
+		"/F/Code/angular/appveyor-web-v2/package.json",
+		"/F/Code/angular/appveyor-web-v2/app/productDetail/productDetail.html",
+		"/F/Code/angular/appveyor-web-v2/dist/js/templates.js",
+		"/F/Code/angular/appveyor-web-v2/app/app.css",
+		"/F/Code/angular/appveyor-web-v2/app/css/app.css",
+		"/F/Code/angular/appveyor-web-v2/app/blog/blog-simple.html",
+		"/F/Code/angular/appveyor-web-v2/.gitignore",
+		"/F/Code/angular/appveyor-web-v2/expressApp.js",
+		"/F/Code/angular/appveyor-web-v2/app/productDetail/product.html",
+		"/F/Code/angular/appveyor-web-v2/app/teas.json",
+		"/F/Code/angular/appveyor-web-v2/app/services/teas.js",
+		"/F/Code/angular/appveyor-web-v2/app/productDetail/productDetail.js",
+		"/F/Code/angular/appveyor-web-v2/app/gulpfile.js",
+		"/F/Code/angular/appveyor-web-v2/app/package.json",
+		"/F/Code/angular/appveyor-web-v2/app/index.handlebars",
+		"/F/Code/angular/appveyor-web-v2/app/expressApp.js",
+		"/F/Code/angular/appveyor-web-v2/app/index.html",
+		"/F/Code/angular/appveyor-web-v2/app/home/home.js",
+		"/F/Code/angular/appveyor-web-v2/app/dist/js/app.min.js",
+		"/C/Users/britzkopf/.gitconfig",
+		"/F/Code/angular/appveyor-web-v2/app/.gitignore",
+		"/C/Users/britzkopf/Documents/WindowsPowerShell/Owen1.StorableColorTheme.ps1xml",
+		"/C/Users/britzkopf/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/F/Code/angular/appveyor-web-v2/app/home/home.html",
+		"/F/Code/angular/appveyor-web-v2/app/static/indexDummy.html",
+		"/F/Code/angular/appveyor-web-v2/app/dist/js/app-cf870cd229.min.js",
+		"/F/Code/angular/appveyor-web-v2/app/indexDummy.html",
+		"/F/Code/angular/appveyor-web-v2/app/dist/js/rev-manifest.json",
+		"/F/Code/angular/appveyor-web-v2/app/dist/js/app-fffc349c37.min.js",
+		"/C/Users/britzkopf/AppData/Local/Google/Chrome/User Data/Default/Cookies",
+		"/F/Code/angular/appveyor-web-v2/app/views/layouts/index.handlebars",
+		"/F/Code/angular/appveyor-web-v2/app/dist/js/app.bundle.js",
+		"/F/Code/angular/appveyor-web-v2/app/components/version/version-directive.js",
+		"/F/Code/Sublime projects/productDetail.js",
+		"/F/Code/Sublime projects/productDetail.html",
+		"/F/Code/angular/appveyor-web-v2-old/.gitignore",
+		"/F/Code/angular/appveyor-web-v2/app/components/version/version.js",
+		"/F/Code/angular/appveyor-web-v2/app/components/version/interpolate-filter.js",
+		"/F/Code/angular/appveyor-web-v2/app/ProductDetails/ProductDetail_test.js",
+		"/F/Code/angular/appveyor-web-v2/app/ProductDetails/ProductDetail.html",
+		"/F/Code/angular/appveyor-web-v2/app/ProductDetails/app.js",
+		"/F/Code/angular/appveyor-web-v2/app/view1/view1.html",
+		"/F/Code/angular/appveyor-web-v2/app/view1/view1.js",
+		"/F/Code/angular/appveyor-web-v2/store.html",
+		"/F/Code/angular/appveyor-web-v2/.bowerrc",
+		"/F/Code/angular/appveyor-web-v2/bower.json",
+		"/C/Users/britzkopf/Downloads/store.html",
+		"/F/Code/angular/appveyor-web-v2/app/index-async.html",
+		"/F/Code/angular/appveyor-web-v2/karma.conf.js",
+		"/F/Code/angular/appveyor-web-v2/.jshintrc",
+		"/F/Code/angular/appveyor-web-v2/app/bower_components/html5-boilerplate/src/index.html",
+		"/F/Code/angular/appveyor-web-v2/app/bower_components/html5-boilerplate/src/404.html",
+		"/F/Code/angular/appveyor-web-v2/app/bower_components/html5-boilerplate/src/css/main.css",
+		"/F/Code/angular/appveyor-web-v2/node_modules/angular/angular.js",
+		"/F/Code/Sublime projects/angular-phonecat.sublime-project",
+		"/F/Code/Sublime projects/app/phones/phones.json",
+		"/F/Code/Sublime projects/app/js/controllers.js",
+		"/F/Code/Sublime projects/app/js/app.js",
+		"/F/Code/Sublime projects/package.json",
+		"/F/Code/Sublime projects/app/index.html",
+		"/F/Code/angular/angular-phonecat/bower.json",
+		"/G/Torrents/Daniel Greenfeld - Two Scoops of Django 1.8 - 2015.pdf",
+		"/F/Code/Visualstudio projects/Appveyor website/NJekyll/site/css/01-foundation/02-foundation.css",
+		"/F/Code/Visualstudio projects/Appveyor website/NJekyll/site/_includes/header.html",
+		"/F/Code/Visualstudio projects/Appveyor website/NJekyll/site/_layouts/default.html",
+		"/F/Code/jekyll/jekyll-test/test.md",
+		"/F/Code/Visualstudio projects/Appveyor website/.deployment",
+		"/F/Code/jekyll/jekyll-test/about.md",
+		"/F/Documents/ebooks • texts/Programming/Concepts, Techniques, and Models of Computer Programming/Concepts, Techniques, and Models of Computer Programming.pdf",
+		"/F/Code/Python/MagpieClone/magpie/magpie_dj/settings.py",
+		"/F/Code/Python/magpie/src/magpie/settings.py",
+		"/F/Code/Python/magpie/src/magpie/wsgi.py",
+		"/F/Code/Python/magpie/src/manage.py",
+		"/F/Code/Python/magpie/src/newsletter/admin.py",
+		"/F/Code/Python/magpie/src/newsletter/__init__.py",
+		"/F/Code/Python/magpie/src/newsletter/templates/home.html",
+		"/F/Code/Python/magpie/src/templates/home.html",
+		"/F/Code/Python/magpie/src/newsletter/migrations/__init__.py",
+		"/F/moviesfilmsvideos/instructional/Lynda.com - Up and Running with ASP.NET/Exercise Files/Ch6/ExploreCalifornia/packages/jQuery.1.10.2/Content/Scripts/jquery-1.10.2.js",
+		"/F/Code/Haskell/template8.hs",
+		"/F/Code/Haskell/parsing.lhs",
+		"/C/Users/britzkopf/Downloads/frontend-nanodegree-resume-master/js/helper.js",
+		"/C/Users/britzkopf/Downloads/frontend-nanodegree-resume-master/js/resumeBuilder.js",
+		"/F/Code/Haskell/homework4.hs",
+		"/F/Programming/Haskell/homework4.hs",
+		"/F/Programming/Haskell/homework3.hs",
+		"/F/Programming/Haskell/lab3.hs",
+		"/F/Programming/Haskell/module Lab2.hs",
+		"/F/Programming/Haskell/lab2.hs",
+		"/C/Users/britzkopf/Downloads/frontend-nanodegree-resume-master/index.html",
+		"/F/Programming/Haskell/homework2.hs",
+		"/G/nexus backup/noteeverything/backup/.bgbackup",
+		"/F/Vuze/Dragon.Blade.2015.CHINESE.720p.BluRay.H264.AAC-RARBG/Subs/subs.srt",
+		"/C/Sites/ruby-calisthenics/spec/fun_with_strings_spec.rb",
+		"/C/Sites/ruby-calisthenics/.rspec"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"F:\\Code\\Visualstudio projects\\Appveyor website\\NJekyll\\site",
+			"C:\\xampp\\htdocs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"menu",
+			"csso",
+			"pipe",
+			"\t\n",
+			"tea",
+			"play",
+			"media",
+			"\\n",
+			"post",
+			"']);",
+			"Bao Zhong",
+			"TEST",
+			");\n",
+			">\n",
+			"home.js",
+			"\t",
+			"store",
+			"storeapp",
+			"store",
+			"></",
+			"logos",
+			"sprite.png",
+			"customer-logo",
+			"csutomer-logo",
+			"delete",
+			"welcome",
+			"\t\t\t\t\t\n",
+			"delete",
+			"content",
+			"tmp_name",
+			"driver_info",
+			"v",
+			"'id'",
+			"'id''",
+			"id",
+			".content-box-header",
+			"content-box",
+			"content-box-head",
+			".content-box-header ",
+			"content-box-header",
+			"clear",
+			"style",
+			"orders",
+			"action",
+			"$_sess",
+			"small-block",
+			"start",
+			"rdModal",
+			"modal",
+			"include",
+			"require",
+			"include",
+			"require",
+			"session",
+			"include_once 'bhawanvirk/global/logo-bar/logo-bar.php';",
+			"include",
+			"require",
+			"include",
+			"require",
+			"include",
+			"require",
+			"short",
+			"$",
+			"filter",
+			"zaki",
+			"pear"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[EMPTY]",
+			"storeapp",
+			"store"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1408,
+								1408
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 604.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "lib/files.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"auto_name": "\"use strict\";",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ginitScratch.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
